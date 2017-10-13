@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://nhakhoadrvuong.vn/';
+	var url_popup = 'http://bit.ly/2yjKnKI';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
