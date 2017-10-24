@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nhakhoadrvuong.vn/' target='_blank'><img src='http://nhakhoadrvuong.vn/public/images/banner_nha_khoa_dr_vuong3.jpg' width='500px'/><br/>13 Nha Khoa Dr Vương</a>. Nha Khoa Tốt Ở Thủ ĐỨc LH 19002680 để tư vấn MIỄN PHÍ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nhakhoadrvuong.vn/' target='_blank'><img src='http://nhakhoadrvuong.vn/public/images/banner_nha_khoa_dr_vuong3.jpg' width='500px'/><br/>Nha Khoa Dr Vương</a>. Nha Khoa Tốt Ở Thủ ĐỨc. Chuyên NIỀNG RĂNG - IMPLANT - BỌC RĂNG SỨ. LH 1900.2680 để tư vấn MIỄN PHÍ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
